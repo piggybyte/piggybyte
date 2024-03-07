@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI/Machine Learning/IoT
 - 🌱 I’m currently learning R and Python
 - 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me @piggybyte on X
+- 📫 Reach me @thepiggybyte on X
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Sometimes a bit indecisive, but I always get through
 
